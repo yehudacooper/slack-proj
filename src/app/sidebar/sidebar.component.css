@@ -1,0 +1,16 @@
+.navcontainer{
+    background-color: blueviolet;
+    height:100vh;
+    overflow: auto;
+}
+button {
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+    border:1px solid darkmagenta;
+    
+}
+button:hover{
+    background-color: darkmagenta;
+    
+}

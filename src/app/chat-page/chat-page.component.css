@@ -1,0 +1,16 @@
+.chatcontainer{
+    display:flex;
+}
+.sidebar{
+    width:18%;
+    
+    /* overflow: auto; */
+}
+.postinput{
+    flex-direction: column;
+    width:82%;
+}
+.posts{
+  height:88%;
+    
+}
